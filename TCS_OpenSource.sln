@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCS_OpenSource", "TCS_OpenSource\TCS_OpenSource.csproj", "{DE071CCC-2156-41DF-90D3-8406C46B78CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE071CCC-2156-41DF-90D3-8406C46B78CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE071CCC-2156-41DF-90D3-8406C46B78CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE071CCC-2156-41DF-90D3-8406C46B78CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE071CCC-2156-41DF-90D3-8406C46B78CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
